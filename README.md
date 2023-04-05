@@ -1,2 +1,2 @@
-# Caffe-menu tutorial
+# Cafe-menu tutorial
 This is a freecpdecamp tutorial
